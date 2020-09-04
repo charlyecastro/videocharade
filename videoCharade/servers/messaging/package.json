@@ -13,7 +13,7 @@
     "amqplib": "^0.5.2",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongodb": "^3.1.9",
+    "mongodb": "^3.1.13",
     "mongoose": "^5.3.11",
     "morgan": "^1.9.1"
   }
